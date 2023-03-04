@@ -1,0 +1,52 @@
+C:\Users\USER11\Documents\malipang\malipangApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER11\Documents\malipang\malipangApp\bin\Debug\net6.0\appsettings.json
+C:\Users\USER11\Documents\malipang\malipangApp\bin\Debug\net6.0\malipangApp.staticwebassets.runtime.json
+C:\Users\USER11\Documents\malipang\malipangApp\bin\Debug\net6.0\malipangApp.exe
+C:\Users\USER11\Documents\malipang\malipangApp\bin\Debug\net6.0\malipangApp.deps.json
+C:\Users\USER11\Documents\malipang\malipangApp\bin\Debug\net6.0\malipangApp.runtimeconfig.json
+C:\Users\USER11\Documents\malipang\malipangApp\bin\Debug\net6.0\malipangApp.dll
+C:\Users\USER11\Documents\malipang\malipangApp\bin\Debug\net6.0\ref\malipangApp.dll
+C:\Users\USER11\Documents\malipang\malipangApp\bin\Debug\net6.0\malipangApp.pdb
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\malipangApp.csproj.AssemblyReference.cache
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\malipangApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\malipangApp.AssemblyInfoInputs.cache
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\malipangApp.AssemblyInfo.cs
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\malipangApp.csproj.CoreCompileInputs.cache
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\malipangApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\malipangApp.RazorAssemblyInfo.cache
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\malipangApp.RazorAssemblyInfo.cs
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\scopedcss\bundle\malipangApp.styles.css
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\scopedcss\projectbundle\malipangApp.bundle.scp.css
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\malipangApp.dll
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\ref\malipangApp.dll
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\malipangApp.pdb
+C:\Users\USER11\Documents\malipang\malipangApp\obj\Debug\net6.0\malipangApp.genruntimeconfig.cache
+D:\Web Programming\malipang\malipangApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Web Programming\malipang\malipangApp\bin\Debug\net6.0\appsettings.json
+D:\Web Programming\malipang\malipangApp\bin\Debug\net6.0\malipangApp.staticwebassets.runtime.json
+D:\Web Programming\malipang\malipangApp\bin\Debug\net6.0\malipangApp.exe
+D:\Web Programming\malipang\malipangApp\bin\Debug\net6.0\malipangApp.deps.json
+D:\Web Programming\malipang\malipangApp\bin\Debug\net6.0\malipangApp.runtimeconfig.json
+D:\Web Programming\malipang\malipangApp\bin\Debug\net6.0\malipangApp.dll
+D:\Web Programming\malipang\malipangApp\bin\Debug\net6.0\ref\malipangApp.dll
+D:\Web Programming\malipang\malipangApp\bin\Debug\net6.0\malipangApp.pdb
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\malipangApp.csproj.AssemblyReference.cache
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\malipangApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\malipangApp.AssemblyInfoInputs.cache
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\malipangApp.AssemblyInfo.cs
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\malipangApp.csproj.CoreCompileInputs.cache
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\malipangApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\malipangApp.RazorAssemblyInfo.cache
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\malipangApp.RazorAssemblyInfo.cs
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\scopedcss\bundle\malipangApp.styles.css
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\scopedcss\projectbundle\malipangApp.bundle.scp.css
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\malipangApp.dll
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\ref\malipangApp.dll
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\malipangApp.pdb
+D:\Web Programming\malipang\malipangApp\obj\Debug\net6.0\malipangApp.genruntimeconfig.cache
